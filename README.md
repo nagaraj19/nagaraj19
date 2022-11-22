@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nagaraj
 - 👀 I’m interested in web3,blockchain project,solidity ,nft,metaverse
-- 🌱 I’m currently learning blockain developer
+- 🌱 I’m currently learning blockain development
 - 📫 How to reach me .https://www.linkedin.com/in/nagaraj-naik-2b28bb96/
 
 <!---
